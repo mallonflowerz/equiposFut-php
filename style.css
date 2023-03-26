@@ -1,0 +1,19 @@
+  * {
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+  }
+
+  body {
+    background-color: rgb(37, 34, 34);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .formulario {
+    border: 10px solid rgb(37, 34, 34);
+  }
